@@ -7,13 +7,13 @@ https://testimonials-webapp.netlify.app
 Nella scrittura di questo codice, ho ampliato le mie competenze su vari aspetti di React.
 
 <h4>1. Importazione di moduli e componenti</h4>
-   Ho appreso come importare diverse librerie e componenti, tra cui gli hooks di React come useState e useEffect, i miei componenti personalizzati come Title e Button, e le icone dalle relative librerie.
+   Ho appreso come importare diverse librerie e componenti, tra cui gli hooks di React come <strong>`useState`</strong> e <strong>`useEffect`</strong>, i miei componenti personalizzati come <strong>`Title`</strong> e <strong>`Button`</strong>, e le icone dalle relative librerie.
    
 <h4>2. Stato e ciclo di vita dei componenti</h4>
-   Ho approfondito l'uso degli hooks useState e useEffect per gestire lo stato del mio componente e per effettuare determinate operazioni quando il componente viene montato o aggiornato. Ho utilizzato useState per definire lo stato locale del mio componente (in questo caso testimonials e items), e useEffect per eseguire una chiamata API ogni volta che il valore di testimonials cambia.
+   Ho approfondito l'uso degli hooks <strong>`useState`</strong> e <strong>`useEffect`</strong> per gestire lo stato del mio componente e per effettuare determinate operazioni quando il componente viene montato o aggiornato. Ho utilizzato `<strong>`useState`</strong> per definire lo stato locale del mio componente (in questo caso <strong>`testimonials`</strong> e <strong>`items`</strong>), e <strong>`useEffect`</strong> per eseguire una chiamata API ogni volta che il valore di testimonials cambia.
    
 <h4>3. Chiamate API</h4>
-   Ho capito come effettuare una chiamata API a https://jsonplaceholder.typicode.com/${testimonials} utilizzando la funzione fetch del browser e come utilizzare le promesse per gestire la risposta.
+   Ho capito come effettuare una chiamata API a <strong>`https://jsonplaceholder.typicode.com/${testimonials}`</strong> utilizzando la funzione <strong>`fetch`</strong> del browser e come utilizzare le promesse per gestire la risposta.
    
 <h4>4. Rendering condizionale</h4>
    Ho sperimentato il rendering condizionale in React per determinare cosa mostrare in base al valore dello stato testimonials e items. Ho imparato a mostrare diversi messaggi a seconda che testimonials sia definito o meno.
