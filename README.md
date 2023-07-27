@@ -16,16 +16,16 @@ Nella scrittura di questo codice, ho ampliato le mie competenze su vari aspetti 
    Ho capito come effettuare una chiamata API a <strong>`https://jsonplaceholder.typicode.com/${testimonials}`</strong> utilizzando la funzione <strong>`fetch`</strong> del browser e come utilizzare le promesse per gestire la risposta.
    
 <h4>4. Rendering condizionale</h4>
-   Ho sperimentato il rendering condizionale in React per determinare cosa mostrare in base al valore dello stato testimonials e items. Ho imparato a mostrare diversi messaggi a seconda che testimonials sia definito o meno.
+   Ho sperimentato il rendering condizionale in React per determinare cosa mostrare in base al valore dello stato <strong>`testimonials`</strong> e <strong>`items`</strong>. Ho imparato a mostrare diversi messaggi a seconda che <strong>`testimonials`</strong> sia definito o meno.
    
 <h4>5. Mappatura dei dati</h4>
-   Ho mappato l'array items per creare una serie di elementi JSX basati sui dati ottenuti dalla chiamata API, apprendendo così a manipolare e visualizzare dati dinamici.
+   Ho mappato l'array <strong>`items`</strong> per creare una serie di elementi JSX basati sui dati ottenuti dalla chiamata API, apprendendo così a manipolare e visualizzare dati dinamici.
    
 <h4>6. Gestione degli eventi</h4>
-   Ho gestito gli eventi in React, come l'evento onClick sui pulsanti, che mi ha permesso di aggiornare lo stato testimonials in base all'interazione dell'utente.
+   Ho gestito gli eventi in React, come l'evento <strong>`onClick`</strong> sui pulsanti, che mi ha permesso di aggiornare lo stato <strong>`testimonials`</strong> in base all'interazione dell'utente.
 
 <h4>7. Utilizzo di props</h4>
-   Ho passato diverse props ai miei componenti Title e Button, comprendendo come i dati possono essere passati ai componenti figli in React e come possano influenzare il rendering e il comportamento di questi componenti.
+   Ho passato diverse props ai miei componenti <strong>`Title`</strong> e <strong>`Button`</strong>, comprendendo come i dati possono essere passati ai componenti figli in React e come possano influenzare il rendering e il comportamento di questi componenti.
 
 ### Languages
 • HTML<br>
