@@ -1,0 +1,31 @@
+.btn,
+.btn-info {
+  margin: 0.25rem 0.125rem;
+  padding: 0.35rem 1.25rem;
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0.6px;
+  border-radius: 0.3rem;
+  color: #fff;
+  background-color: #000;
+  border: none;
+  box-shadow: 0 2px 5px rgba(51, 51, 51, 0.3);
+  transition: 0.3s ease;
+}
+
+.btn:hover,
+.btn-info:hover {
+  cursor: pointer;
+  box-shadow: none;
+  transition: 0.3s ease;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  color: white;
+}
+.btn-info:hover {
+  background: rgba(23, 162, 184, 0.75);
+}
