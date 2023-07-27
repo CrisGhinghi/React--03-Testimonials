@@ -25,7 +25,20 @@ Nella scrittura di questo codice, ho ampliato le mie competenze su vari aspetti 
    Ho gestito gli eventi in React, come l'evento <strong>`onClick`</strong> sui pulsanti, che mi ha permesso di aggiornare lo stato <strong>`testimonials`</strong> in base all'interazione dell'utente.
 
 <h4>7. Utilizzo di props</h4>
-   Ho passato diverse props ai miei componenti <strong>`Title`</strong> e <strong>`Button`</strong>, comprendendo come i dati possono essere passati ai componenti figli in React e come possano influenzare il rendering e il comportamento di questi componenti.
+   Ho passato diverse props ai miei componenti <strong>`Title`</strong> e <strong>`Button`</strong>, comprendendo come i dati possono essere passati ai componenti figli in React e come possano influenzare il rendering e il comportamento di questi componenti.<br>
+<br>
+<p align="center">
+  <img src="screenshot/testimonials1.png" alt="Size Limit CLI" width="738">
+</p>
+<p align="center">
+  <img src="screenshot/testimonials2.png" alt="Size Limit CLI" width="738">
+</p>
+<p align="center">
+  <img src="screenshot/testimonials3.png" alt="Size Limit CLI" width="738">
+</p>
+<p align="center">
+  <img src="screenshot/testimonials4.png" alt="Size Limit CLI" width="738">
+</p>
 
 ### Languages
 • HTML<br>
