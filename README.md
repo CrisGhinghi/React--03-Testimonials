@@ -4,28 +4,28 @@
 https://testimonials-webapp.netlify.app
 
 # 03
-Nella scrittura di questo codice, ho ampliato le mie competenze su vari aspetti di React.
+In writing this code, I have expanded my understanding of various aspects of React and front-end development:
 
-<h4>1. Importazione di moduli e componenti</h4>
-   Ho appreso come importare diverse librerie e componenti, tra cui gli hooks di React come <strong>`useState`</strong> e <strong>`useEffect`</strong>, i miei componenti personalizzati come <strong>`Title`</strong> e <strong>`Button`</strong>, e le icone dalle relative librerie.
+<h4>1. Importing modules and components</h4>
+   I've learned how to import various libraries and components, including React's hooks such as <strong>`useState`</strong> and <strong>`useEffect`</strong>, my own custom components like <strong>`Title`</strong> and <strong>`Button`</strong>, and icons from react-icons.
    
-<h4>2. Stato e ciclo di vita dei componenti</h4>
-   Ho approfondito l'uso degli hooks <strong>`useState`</strong> e <strong>`useEffect`</strong> per gestire lo stato del mio componente e per effettuare determinate operazioni quando il componente viene montato o aggiornato. Ho utilizzato `<strong>`useState`</strong> per definire lo stato locale del mio componente (in questo caso <strong>`testimonials`</strong> e <strong>`items`</strong>), e <strong>`useEffect`</strong> per eseguire una chiamata API ogni volta che il valore di testimonials cambia.
+<h4>2. State and component lifecycle</h4>
+   I've delved deeper into the usage of <strong>`useState`</strong> and <strong>`useEffect`</strong> hooks to manage the state of my component and to carry out specific operations when the component mounts or updates. I used `<strong>`useState`</strong> to define the local state of my component (in this case <strong>`testimonials`</strong> and <strong>`items`</strong>), and <strong>`useEffect`</strong> to perform an API call every time the value of <strong>`testimonials`</strong> changes.
    
-<h4>3. Chiamate API</h4>
-   Ho capito come effettuare una chiamata API a <strong>`https://jsonplaceholder.typicode.com/${testimonials}`</strong> utilizzando la funzione <strong>`fetch`</strong> del browser e come utilizzare le promesse per gestire la risposta.
+<h4>3. API calls</h4>
+   I've grasped how to make an API call to <strong>`https://jsonplaceholder.typicode.com/${testimonials}`</strong> using the browser's <strong>`fetch`</strong> function and how to use promises to handle the response.
    
-<h4>4. Rendering condizionale</h4>
-   Ho sperimentato il rendering condizionale in React per determinare cosa mostrare in base al valore dello stato <strong>`testimonials`</strong> e <strong>`items`</strong>. Ho imparato a mostrare diversi messaggi a seconda che <strong>`testimonials`</strong> sia definito o meno.
+<h4>4. Conditional rendering</h4>
+   I've experimented with conditional rendering in React to determine what to show based on the value of the <strong>`testimonials`</strong> and <strong>`items`</strong> state. I've learned to display different messages depending on whether <strong>`testimonials`</strong> is defined or not.
    
-<h4>5. Mappatura dei dati</h4>
-   Ho mappato l'array <strong>`items`</strong> per creare una serie di elementi JSX basati sui dati ottenuti dalla chiamata API, apprendendo così a manipolare e visualizzare dati dinamici.
+<h4>5. Mapping data</h4>
+   I've mapped the <strong>`items`</strong> array to create a series of JSX elements based on the data obtained from the API call, thereby learning how to manipulate and display dynamic data.
    
-<h4>6. Gestione degli eventi</h4>
-   Ho gestito gli eventi in React, come l'evento <strong>`onClick`</strong> sui pulsanti, che mi ha permesso di aggiornare lo stato <strong>`testimonials`</strong> in base all'interazione dell'utente.
+<h4>6. Event handling</h4>
+    I've handled events in React, like the <strong>`onClick`</strong>  event on buttons, which has allowed me to update the <strong>`testimonials`</strong> state based on user interaction.
 
-<h4>7. Utilizzo di props</h4>
-   Ho passato diverse props ai miei componenti <strong>`Title`</strong> e <strong>`Button`</strong>, comprendendo come i dati possono essere passati ai componenti figli in React e come possano influenzare il rendering e il comportamento di questi componenti.<br>
+<h4>7. Using props</h4>
+    I've passed various props to my <strong>`Title`</strong> and <strong>`Button`</strong>, components, understanding how data can be passed to child components in React and how they can affect the rendering and behavior of these components.<br>
 <br>
 <p align="center">
   <img src="screenshot/testimonials1.png" alt="Size Limit CLI" width="738">
